@@ -1,5 +1,6 @@
 # odin-calculator
-[Link to the calculator](https://jeremywuworldwidesimtan.github.io/odin-calculator/)
+![Link to the calculator](https://jeremywuworldwidesimtan.github.io/odin-calculator/)
+
 My work on the calculator assignment from the Odin Project
 
 Do help me by reporting bugs in the issues page
